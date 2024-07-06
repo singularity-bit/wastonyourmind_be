@@ -12,6 +12,14 @@ Retrieves the list of available processing models.
 
 Processes a file and returns the extracted entities.
 
+### 🗂 Assets
+
+The following assets are defined by the project.
+
+| File | Source | Description |
+| --- | --- | --- |
+| [`assets/en_ner_proglang-0.0.0.tar.gz`](https://ibm.box.com/s/u9rwbb60dcxreaiudwht73q02jw9umve) | Local | trained model |
+
 ## Setup
 
 Before starting the project, make sure to add the model package into the `assets` directory.
